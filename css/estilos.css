@@ -3,12 +3,14 @@ body {
 	margin: 0;
 	padding: 0;
 }
-
+.fotofran  { padding: 10px; margin: 10px; border: 2px ; float: initial; float: right; width: 360px; height: auto; }
 header {
-	background-color: #333;
+	
+	background-color: #2669ce;
 	color: #fff;
 	padding: 20px;
 }
+
 
 h1, h2 {
 	margin: 0;
